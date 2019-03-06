@@ -1,2 +1,2 @@
 # 36-350
-Statistical computing homewords
+Statistical computing homeworks
